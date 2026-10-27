@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-bitwise"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Битовые операции (popcount, power of two)."
+    репозиторий = "github.com/skytech-alt/skyforge-bitwise"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
